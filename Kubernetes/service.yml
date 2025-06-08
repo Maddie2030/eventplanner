@@ -7,7 +7,7 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-  - port: 90
+  - port: 80
     targetPort: 4000
   selector:
     app: evezy
