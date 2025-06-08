@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: evezy
+  labels:
+    app: evezy
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 90
+    targetPort: 4000
+  selector:
+    app: evezy
