@@ -7,7 +7,7 @@ const services = [
   {
     icon: <Calendar className="w-8 h-8" />,
     title: 'Event Planning',
-    description: 'Comprehensive event planning and coordination services',
+    description: 'Comprehensive event planning and coordination services for all your needs',
   },
   {
     icon: <Users className="w-8 h-8" />,
