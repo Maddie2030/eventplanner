@@ -17,7 +17,7 @@ const services = [
   {
     icon: <Music className="w-8 h-8" />,
     title: 'Entertainment',
-    description: 'Live bands, DJs, and performers for any occasion',
+    description: 'Live bands, DJs, and performers for any occasion is for all',
   },
   {
     icon: <Camera className="w-8 h-8" />,
